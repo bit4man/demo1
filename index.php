@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>Hello OpenShift</title>
+  <title>Hello OpenShift!!!!</title>
   <style>
     table, th, td {
       border: 1px solid black;
@@ -13,7 +13,7 @@
   </style>
  </head>
  <body>
- <h1>Hello OpenShift!</h1>
+ <h1>Hello OpenShift!!!! HURRAY!</h1>
 <?php
 error_reporting(E_ERROR);
 
